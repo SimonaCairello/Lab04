@@ -6,9 +6,9 @@ public class TestModel {
 
 		Model model = new Model();
 		
-		/*
-		 * 	Write here your test model
-		 */
+		//System.out.println(model.getTuttiICorsi());
+		//System.out.println(model.getStudentePerMatricola(156622));
+		System.out.println(model.getCorsiPerMatricola(1));
 
 	}
 
